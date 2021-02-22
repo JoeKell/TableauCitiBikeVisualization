@@ -38,3 +38,13 @@ This visualization shows all bike stations used between June 2020 and January 20
 
 The main trend that is apperent in this visual is that the bike stations in Manhattan are the most popular.
 
+
+### Female Ridership Dashboard
+
+![Female Ridership Dashboard](FinalImages/FemaleRidership.PNG)
+
+The purpose of this dashboard is to explore the effectiveness of Citi Bike's most recent marketing campaign aimed at increasing the percentage of female riders across the platform. Since this is the primary focus, the first visual seen (upper left) shows the progress towards the goal.
+
+The next visual (upper right) is a bar chart showing the total number of riders for each gender by month.
+
+The visual along the bottom gives an idea of what people are using the bikes for. Typically when someone makes a "round trip" - meaning they start and end at the same station - they are using the bike for exercise. This visual looks at the percentage of trips that were round trips broken down by gender and user type.
