@@ -34,5 +34,7 @@ My visualizations use data from June 2020 through January 2021, during which tim
 
 ![City official map visual](FinalImages/CityOfficial.PNG)
 
-This visualization
+This visualization shows all bike stations used between June 2020 and January 2021. The more popular a station is, the darker the shade of purple for the corresponding circleon is a darker shade of purple. Zip codes are colored a shade of grey depending on the 2018 Average Household Size from the US Census. Users are able to use the sliding Date Range selecter to look at more specific date ranges and there is also an option to filter the data by season.
+
+The main trend that is apperent in this visual is that the bike stations in Manhattan are the most popular.
 
