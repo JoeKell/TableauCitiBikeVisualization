@@ -46,3 +46,11 @@ The concerning message is that the campaign intended to increase female ridershi
 ### Seasonal Use Dashboard
 
 ![Seasonality Dashboard](FinalImages/SeasonalityDashboard.PNG)
+
+The first visual (Top Left) shows the distribution of riders by age in each season. This does not seem to change much even when filtering by hour of day, which was quite surprising to me.
+
+The map (Top Right) shows the top 25 stations and allows users to look at the plots for those stations when selected.
+
+The line charts on the bottom show an hourly breakdown by weekday and weekend of the number of riders each season and the average trip length each season.
+
+The most interesting thing that comes from these charts is the peak at 4am on summer weekends for average trip length. This is very likely people biking home from the bars since last call is 4am in New York City.
