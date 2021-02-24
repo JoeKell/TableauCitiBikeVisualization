@@ -2,18 +2,9 @@
 
 ## Summary
 
-The link to the dashboards and visualizations on Tableau Public is <https://public.tableau.com/profile/joe.kell7438#!/vizhome/CitibikeDashboard_16137976314640/Sheet1>
-
-***** Need to edit
+The link to the dashboards and visualizations on Tableau Public is <https://public.tableau.com/profile/joe.kell7438#!/vizhome/CitibikeDashboard_16137976314640/SeasonalityDashboard>
 
 In this project I am building dashboards and other visualizations using Tableau to relay information about the Citi Bike data from New York City.
-
-### Using the Final Application
-The application can be reached at <https://joekell.github.io/D3InteractiveScatterPlot/> and is hosted on Github Pages. When opening the dashboard, the x-axis of the scatter plot represents the average age of people in the state and the y-axis represents the percent of people that smoke:
-
-![Opening Dashboard](FinalImages/SiteLoad.PNG)
-
-You are then able to scroll down to see detailed notes on using the chart.
 
 ## Tools
 These are the tools, techniques, and resources used in this project.
@@ -48,3 +39,10 @@ The purpose of this dashboard is to explore the effectiveness of Citi Bike's mos
 The next visual (upper right) is a bar chart showing the total number of riders for each gender by month.
 
 The visual along the bottom gives an idea of what people are using the bikes for. Typically when someone makes a "round trip" - meaning they start and end at the same station - they are using the bike for exercise. This visual looks at the percentage of trips that were round trips broken down by gender and user type.
+
+The concerning message is that the campaign intended to increase female ridership has actually decreased it.
+
+
+### Seasonal Use Dashboard
+
+![Seasonality Dashboard](FinalImages/SeasonalityDashboard.PNG)
